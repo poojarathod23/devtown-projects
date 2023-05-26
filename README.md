@@ -1,1 +1,1 @@
-# https://codesandbox.io/s/determined-wind-0mhryu?file=/assn-1-tailwind-product-page.html
+# https://codesandbox.io/s/heuristic-drake-dsvnly?file=/assn-1-tailwind-product-page.html&resolutionWidth=320&resolutionHeight=675
